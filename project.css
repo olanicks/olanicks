@@ -1,0 +1,45 @@
+.logo{
+    width: 20px;
+}
+.div-1{
+    height: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+header{
+text-align: center;
+}
+.container-4{
+    margin:right 320px;
+    line-height: 1rem;
+    display: inline-block;
+    margin-top: 150px;
+/* }
+.img-3,.img4{
+    width: 20px; */
+}
+.num1{
+    margin-left:20px ;
+    front size:40px ;
+    color::-black
+    front-weight:700px
+}
+.ola3{
+    display: flex;
+    front size:20px ;
+    
+}
+.container1{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    padding: 2%;
+}
+.ola3{
+    background-color: rgb(240, 78, 105);
+    color: aquamarine;
+    width: 30px;
+    
+}
